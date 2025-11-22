@@ -22,7 +22,4 @@ Diagrama que muestra la creación de una nueva nota en la versión **SPA**.
 - La UI se actualiza **sin recargar la página**.
 
 ---
-
-> 💡 Todos los diagramas están escritos en **sintaxis Mermaid** y se renderizan automáticamente en GitHub.
->
 > 📚 Fuente: [https://studies.cs.helsinki.fi/exampleapp/](https://studies.cs.helsinki.fi/exampleapp/)
